@@ -1,0 +1,10 @@
+Package: passR
+Type: Package
+Title: Access pass from R
+Version: 0.1.0
+Author: Daniel Ebbert
+Maintainer: Daniel Ebbert <daniel@ebbert.nl>
+Description: Access the password store pass from within R provided that pass is installed on the operating system.
+License: CC0
+Encoding: UTF-8
+LazyData: true
